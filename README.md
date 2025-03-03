@@ -14,7 +14,7 @@ https://www.youtube.com/playlist?list=PLBLhGzf6WONnkezLjRzIs2JpPwEjmm6FC
 * 인터프리터 설정에서 PICO로 설정 후 MicroPython으로 구동합니다. 모든 파이썬의 패키지 설치는 어렵습니다, 피코 내부의 저장공간 제약으로... 따라서 API 방식의 접근이 제일 좋습니다. 다량의 패키지를 설치하는 것 보다!
 
 **실습에 사용된 교구 구입처**
-* 호기심나무(네이버스마트스토어 및 S2B)에서 구입 가능(홍보아님): https://smartstore.naver.com/namustore23/products/9285039084 <프로젝트 키트>  -> 본 강좌에 사용
-* 호기심나무(네이버스마트스토어 및 S2B)에서 구입 가능(홍보아님): https://smartstore.naver.com/namustore23/products/9174623319 <기본 키트>  -> 초심자용? 간단한 키트
+* https://smartstore.naver.com/namustore23/products/9285039084 <프로젝트 키트>  -> 본 강좌에 사용
+* https://smartstore.naver.com/namustore23/products/9174623319 <기본 키트>  -> 초심자용? 간단한 키트
 * 피코 WH 제품을 단품으로 구입하고 여러 센서를 마련해 수업해도 가능! (유지보수 및 관리가 어려워서 추천하지는 않음)
 * 다른 제품들도 있지만 교구 구성 대비 가격이 합리적이지 않아 본교에서는 해당 제품을 사용하고 있음.
